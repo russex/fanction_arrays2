@@ -1,0 +1,9 @@
+﻿Build started...
+1>------ Build started: Project: fanc arrays 2, Configuration: Debug Win32 ------
+1>Source.cpp
+1>C:\Users\Сергей\source\repos\fanc arrays 2\fanc arrays 2\Source.cpp(41,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+1>C:\Users\Сергей\source\repos\fanc arrays 2\fanc arrays 2\Source.cpp(316,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+1>C:\Users\Сергей\source\repos\fanc arrays 2\fanc arrays 2\Source.cpp(552,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+1>fanc arrays 2.vcxproj -> C:\Users\Сергей\source\repos\fanc arrays 2\Debug\fanc arrays 2.exe
+1>Done building project "fanc arrays 2.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
